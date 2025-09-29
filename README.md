@@ -19,7 +19,7 @@ Clean exit message on Ctrl + C
 
 Clone this repository and run the script:
 
-git clone https://github.com/USERNAME/MPSWD.git
+git clone https://github.com/CYPER-ABOD/MPSWD.git
 cd MPSWD
 python mpswd.py
 
